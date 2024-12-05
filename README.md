@@ -1,4 +1,4 @@
-<img align="right"> [![](https://visitcount.itsvg.in/api?id=divakarVelagacherla&icon=0&color=12)](https://visitcount.itsvg.in) </img>
+[![](https://visitcount.itsvg.in/api?id=divakarVelagacherla&icon=0&color=12)](https://visitcount.itsvg.in) 
 # 💫 About Me:                                        
 I'm an enthusiastic Java Full Stack Developer with a solid foundation in Java, Spring Boot, and React. I’m passionate about developing efficient, user-friendly applications and am excited to expand my skills in software development. With hands-on experience in backend and frontend technologies, I enjoy building solutions that prioritize performance and a great user experience.
 
