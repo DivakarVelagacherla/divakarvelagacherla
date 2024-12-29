@@ -2,6 +2,7 @@
 # 💫 About Me:                                        
 I'm an enthusiastic Java Full Stack Developer with a solid foundation in Java, Spring Boot, and React. I’m passionate about developing efficient, user-friendly applications and am excited to expand my skills in software development. With hands-on experience in backend and frontend technologies, I enjoy building solutions that prioritize performance and a great user experience.
 
+![Profile Views](https://komarev.com/ghpvc/?username=divakarvelagacherla&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divakar_velagacherla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divakarVelagacherla) 
