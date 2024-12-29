@@ -1,5 +1,3 @@
-[![Profile](https://visitcount.itsvg.in/api?id=divakarVelagacherla&icon=0&color=12)](https://visitcount.itsvg.in) 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=divakarvelagacherla&color=blue)
 
 # 💫 About Me:                                        
