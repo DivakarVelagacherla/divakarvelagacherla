@@ -14,7 +14,6 @@ leetcode_api = f'https://leetcode-stats-api.herokuapp.com/{LEETCODE_USERNAME}'
 try:
     stats = requests.get(leetcode_api).json()
     problems_solved = stats.get('totalSolved', 'N/A')
-    print(f"Fetched problems solved: {problems_solved}")
 except Exception:
     problems_solved = 'N/A'
 
