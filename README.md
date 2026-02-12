@@ -1,6 +1,4 @@
-<div align="center">
 # Divakar Reddy Velagacherla
-</div>
 
 **Software Engineer** | Building scalable backend systems with purpose-driven technology choices
 
@@ -25,8 +23,8 @@ Approach:     Understanding trade-offs over collecting tools
 <!-- Update these manually or they'll auto-update if you set up GitHub Actions -->
 ```
 📊 Current Stats
-├─ Problems Solved: [53]
-└─ Last Updated: Feb 12, 2026
+├─ Problems Solved: [Update weekly]
+└─ Last Updated: Feb 11, 2025
 ```
 
 ---
