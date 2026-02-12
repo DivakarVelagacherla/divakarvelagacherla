@@ -1,6 +1,7 @@
 import re
 import requests
 from datetime import datetime
+from zoneinfo import ZoneInfo
 import os
 
 LEETCODE_USERNAME = 'divakarvelagacherla'
@@ -18,7 +19,7 @@ except Exception:
     problems_solved = 'N/A'
 
 # Get current date
-now = datetime.utcnow()
+now = datetime.now(ZoneInfo('America/New_York'))
 date_str = now.strftime('%b %d, %Y')
 
 with open(README_PATH, 'r', encoding='utf-8') as f:
