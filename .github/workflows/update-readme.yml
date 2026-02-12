@@ -1,3 +1,18 @@
+  notify-on-failure:
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email notification on failure
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.GMAIL_USERNAME }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "GitHub Actions Workflow Failed"
+          body: "The update-readme workflow failed. Please check your token or other configuration."
+          to: divakarvelagacherla@gmail.com
+          from: ${{ secrets.GMAIL_USERNAME }}
 name: Update README weekly
 
 on:
