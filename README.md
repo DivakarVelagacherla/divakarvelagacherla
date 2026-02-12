@@ -18,9 +18,9 @@ Approach:     Understanding trade-offs over collecting tools
 ```
 
 **Progress Tracking:**
-- 🧩 LeetCode Problems: ![LeetCode Stats](https://leetcard.jacoblin.cool/divakarvelagacherla?theme=dark&font=Ubuntu&ext=heatmap)
+[![LeetCode Stats](https://coding-profile.vercel.app/api?username=divakarvelagacherla&theme=Dark)](https://github.com/Pranshu321/coding-profiles)
 
-<!-- Update these manually or they'll auto-update if you set up GitHub Actions -->
+
 ```
 📊 Current Stats
 ├─ Problems Solved: [Update weekly]
