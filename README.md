@@ -1,4 +1,6 @@
+<div align="center">
 # Divakar Reddy Velagacherla
+</div>
 
 **Software Engineer** | Building scalable backend systems with purpose-driven technology choices
 
