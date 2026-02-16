@@ -18,13 +18,11 @@ Approach:     Understanding trade-offs over collecting tools
 ```
 
 **Progress Tracking:**
-[![LeetCode Stats](https://coding-profile.vercel.app/api?username=divakarvelagacherla&theme=Dark)](https://github.com/Pranshu321/coding-profiles)
-
-
 ```
 📊 Current Stats
-├─ Problems Solved: [57]
-└─ Last Updated: Feb 15, 2026
+├─ Problems Solved: [59]
+├─ Rank on LeetCode: [2160141]
+└─ Last Updated: Feb 16, 2026
 ```
 
 ---
@@ -110,11 +108,7 @@ DevOps:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divakarvelagacherla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divakarvelagacherla&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divakarvelagacherla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 

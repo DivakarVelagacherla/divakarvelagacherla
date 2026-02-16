@@ -14,9 +14,12 @@ README_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, '../../README.md'))
 leetcode_api = f'https://leetcode-stats-api.herokuapp.com/{LEETCODE_USERNAME}'
 try:
     stats = requests.get(leetcode_api).json()
+    print(f"Fetched stats: {stats}")
     problems_solved = stats.get('totalSolved', 'N/A')
+    rank = stats.get('ranking', 'N/A')
 except Exception:
     problems_solved = 'N/A'
+    rank = 'N/A'
 
 # Get current date
 now = datetime.now(ZoneInfo('America/New_York'))
@@ -27,6 +30,8 @@ with open(README_PATH, 'r', encoding='utf-8') as f:
 
 # Update Problems Solved
 content = re.sub(r'Problems Solved: \[.*?\]', f'Problems Solved: [{problems_solved}]', content)
+# Update Rank
+content = re.sub(r'Rank on LeetCode: \[.*?\]', f'Rank on LeetCode: [{rank}]', content)
 # Update Last Updated
 content = re.sub(r'Last Updated: .*', f'Last Updated: {date_str}', content)
 
