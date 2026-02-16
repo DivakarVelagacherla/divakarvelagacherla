@@ -13,16 +13,16 @@
 ```
 Focus:        Mastering Data Structures & Algorithms + System Design
 Goal:         Senior Backend Engineer at top tech companies
-Timeline:     Next 6 months (Feb - Aug 2025)
+Timeline:     Next 6 months (Feb - Sep 2026)
 Approach:     Understanding trade-offs over collecting tools
 ```
 
-**Progress Tracking:**
+**Leetcode Progress Tracking:**
 ```
 📊 Current Stats
-├─ Problems Solved: [59]
-├─ Rank on LeetCode: [2160141]
-└─ Last Updated: Feb 16, 2026
+├─ Problems Solved: [Update Daily]
+├─ Rank on LeetCode: [Update Daily]
+└─ Last Updated: Feb 11, 2025
 ```
 
 ---
