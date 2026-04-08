@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at 00:00 UTC
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -13,14 +13,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          token: ${{ secrets.GH_ACTION_WRITE }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install requests
         run: pip install requests
