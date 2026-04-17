@@ -20,9 +20,9 @@ Approach:     Understanding trade-offs over collecting tools
 **Leetcode Progress Tracking:**
 ```
 📊 Current Stats
-├─ Problems Solved: [65]
-├─ Rank on LeetCode: [2057205]
-└─ Last Updated: Apr 15, 2026
+├─ Problems Solved: [N/A]
+├─ Rank on LeetCode: [N/A]
+└─ Last Updated: Apr 16, 2026
 ```
 
 ---
