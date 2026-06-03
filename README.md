@@ -22,7 +22,7 @@ Approach:     Understanding trade-offs over collecting tools
 📊 Current Stats
 ├─ Problems Solved: [N/A]
 ├─ Rank on LeetCode: [N/A]
-└─ Last Updated: Jun 01, 2026
+└─ Last Updated: Jun 02, 2026
 ```
 
 ---
