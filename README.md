@@ -13,7 +13,6 @@
 ```
 Focus:        Mastering Data Structures & Algorithms + System Design
 Goal:         Senior Backend Engineer at top tech companies
-Timeline:     Next 6 months (Feb - Sep 2026)
 Approach:     Understanding trade-offs over collecting tools
 ```
 
