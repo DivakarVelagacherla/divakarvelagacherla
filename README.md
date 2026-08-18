@@ -1,6 +1,6 @@
 # Divakar Reddy Velagacherla
 
-**Software Engineer** | Building scalable backend systems with purpose-driven technology choices
+**Software Engineer** | Building scalable backend systems with purpose-driven technology choices | [website](www.divakarvelagacherla.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divakarVelagacherla)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/divakarvelagacherla)
